@@ -3,7 +3,7 @@
 
 
 - 🔭 hoje trabalho com front-end/ LVL EASY 
-- 🌱 estudante de HTML,CSS,JAVASCRIPT
+- 🌱 framer - 3JS
 - Sempre aprendendo 
 
 <div style="display: inline_block"><br>
